@@ -4,7 +4,7 @@
 * Emanuel Palacio Urrego, CC 1000654045, Ingeniería eléctrica
 * Juan Manuel Mesa Henao, CC 1044509403,Ingeniería eléctrica
 ## Datos
-https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather 
+Los datos fueron extraídos de Kaggle: [energy_dataset](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather)
 ## Videos
 https://youtu.be/yY3RbuNAzko
 
