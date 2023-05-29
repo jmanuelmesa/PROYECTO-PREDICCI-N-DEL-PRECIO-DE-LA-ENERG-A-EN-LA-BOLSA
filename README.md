@@ -6,5 +6,5 @@
 ## Datos
 Los datos fueron extraídos de Kaggle: [energy_dataset](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather)
 ## Videos
-https://youtu.be/yY3RbuNAzko
+[Video entrega final](https://youtu.be/yY3RbuNAzko)
 
